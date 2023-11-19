@@ -1,4 +1,3 @@
-![image](https://github.com/hwahyeon/shortcut/assets/46473089/4adadf54-2703-4d9b-b409-63e319b8126a)# 단축키 모음
 # 목차
 - [크롬 단축키](#Chrome)
 - [VSCode 단축키](#VSCode)
